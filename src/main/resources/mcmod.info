@@ -1,0 +1,16 @@
+[
+{
+  "modid": "adaptive-storage",
+  "name": "Adaptive Storage",
+  "description": "AE2 and RS Adapter Mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MoreThanHidden"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
